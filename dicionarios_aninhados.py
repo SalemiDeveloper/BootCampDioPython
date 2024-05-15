@@ -6,3 +6,6 @@ contatos = {
 
 telefone = contatos["joao@gmail.com"]["telefone"]
 print(telefone)
+
+for chave in contatos:
+    print(chave, contatos[chave])
