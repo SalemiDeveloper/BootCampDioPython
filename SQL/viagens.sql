@@ -24,6 +24,8 @@ CREATE TABLE viagens.reservas (
   status VARCHAR(255) DEFAULT 'pendente' COMMENT 'Status da reserva (confirmada, pendente, cancelada, etc.)'
 );
 
+--
+
 
 --praticando INSERT INTO
 --inserindo usuários
@@ -62,3 +64,12 @@ SELECT * FROM usuarios WHERE data_nascimento < '1990-01-01';
 --PRATICANDO LIKE
 SELECT * FROM usuarios WHERE nome LIKE '%Silva%';
 SELECT * FROM usuarios WHERE nome LIKE 'Jo_o%';
+
+--PRATICANDO UPDATE
+UPDATE usuarios
+SET id = 5
+WHERE email = 'teste@teste.com';
+
+--PRATICANDO DELETE
+DELETE FROM destinos
+WHERE nome = 'Praia das Tartarugas';
