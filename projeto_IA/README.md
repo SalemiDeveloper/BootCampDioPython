@@ -13,7 +13,7 @@ Utilizei o ChatGPT para criar a história e o Google Docs para formatar o texto.
 ## 🚀 Resultados
 A história apresenta a evolução dos carros
 
-[LINK PARA O E-BOOK AQUI]()
+https://docs.google.com/document/d/e/2PACX-1vQlRV7HMAv65C16194nHY40PBz6muCdmFxtseuTxxDVFdswQ3eTVQVx_VMZSB8KkfbD4Q22PRqJ4kTr/pub
 
 ## 💭 Reflexão
 Criar essa história melhorou meus conhecimentos sobre IA.
